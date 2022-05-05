@@ -6,8 +6,11 @@
   <a href="https://www.linkedin.com/in/diego-%C3%A1lvarez-garc%C3%ADa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://portfolio-diego-alvarez.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-40E0D0?logo=website&logoColor=turquoise&style=for-the-badge" alt="Youtube Badge"/>
+  </a>
   <a href="https://open.spotify.com/user/diego.stoner?si=580cc9a8a24640a2">
-    <img src="https://img.shields.io/badge/Spotify-green?logo=spotify&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Spotify-brightgreen?logo=spotify&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
 </div>
 <div align="center">
