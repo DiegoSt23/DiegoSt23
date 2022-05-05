@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi there</h1>
+  <h1>Hello there</h1>
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
