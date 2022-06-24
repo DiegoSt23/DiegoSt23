@@ -37,7 +37,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiegoSt23&theme=dark&background=000000a6)](https://git.io/streak-stats)
 
 ### Top Langs :
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSt23&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSt23&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
