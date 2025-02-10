@@ -29,7 +29,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-plain.svg" title="React Router" alt="react-router" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="react-router" width="40" height="40"/>&nbsp;
 </div>
 
 ### My Stats :
