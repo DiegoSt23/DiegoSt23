@@ -9,9 +9,6 @@
   <a href="https://diego-alvarez.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-40E0D0?logo=website&logoColor=turquoise&style=for-the-badge" alt="Youtube Badge"/>
   </a>
-  <a href="https://open.spotify.com/user/diego.stoner?si=580cc9a8a24640a2">
-    <img src="https://img.shields.io/badge/Spotify-brightgreen?logo=spotify&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
-  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DiegoSt23" alt="counter" />
